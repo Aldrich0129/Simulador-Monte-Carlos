@@ -1,0 +1,9 @@
+streamlit=1.34
+python-docx
+openpyxl
+pandas
+numpy 
+yfinance 
+plotly 
+scipy 
+aiohttp
